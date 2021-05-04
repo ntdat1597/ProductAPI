@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a05e7712-3c30-4e69-b59e-45413ea79c70" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620134730831</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="product API">
+      <created>1620142668912</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620142668912</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,10 +153,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="508" y="44" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1620134730840" />
-    <state x="184" y="71" width="1536" height="860" key="DiffContextDialog" timestamp="1620135018862">
+    <state x="184" y="71" width="1536" height="860" key="DiffContextDialog" timestamp="1620142799303">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="71" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620135018862" />
+    <state x="184" y="71" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620142799303" />
     <state x="690" y="201" key="FileChooserDialogImpl" timestamp="1620135131505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -194,10 +201,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="803" y="419" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1620135054458" />
-    <state x="452" y="173" key="Vcs.Push.Dialog.v2" timestamp="1620104444398">
+    <state x="452" y="173" key="Vcs.Push.Dialog.v2" timestamp="1620142807793">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="173" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1620104444398" />
+    <state x="452" y="173" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1620142807793" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1620135018862">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
